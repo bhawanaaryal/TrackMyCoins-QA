@@ -93,13 +93,13 @@ Postman
 
 Defects identified during testing will be documented with:
 
-Bug ID
-Severity
-Priority
-Steps to reproduce
-Expected result
-Actual result
-Status
+Bug ID<br>
+Severity<br>
+Priority<br>
+Steps to reproduce<br>
+Expected result<br>
+Actual result<br>
+Status<br>
 
 Bug reports will be maintained in:
 
@@ -107,68 +107,67 @@ Bug reports will be maintained in:
 
 ## 5. Roles and Responsibilities
 
-QA Tester -> Create test cases, execute testing, report bugs
-Developer -> Fix identified defects
-Tester/Developer -> Validate fixes and perform regression testing
+QA Tester -> Create test cases, execute testing, report bugs<br>
+Developer -> Fix identified defects<br>
+Tester/Developer -> Validate fixes and perform regression testing<br>
 
 ## 6. Test Schedule
 
-Phase 1:	Test planning and scenario preparation
-Phase 2:	Test case creation
-Phase 3:	Manual test execution
-Phase 4:	Bug reporting
-Phase 5:	API testing
-Phase 6:	SQL validation
-Phase 7:	Regression testing
+Phase 1:	Test planning and scenario preparation <br>
+Phase 2:	Test case creation <br>
+Phase 3:	Manual test execution<br>
+Phase 4:	Bug reporting<br>
+Phase 5:	API testing<br>
+Phase 6:	SQL validation<br>
+Phase 7:	Regression testing<br>
 
 ## 7. Test Deliverables
 
 The following deliverables will be produced:
 
-Test Plan
-Test Scenarios
-Test Cases
-Bug Reports
-API Test Collection
-SQL Validation Queries
-Test Execution Report
-Screenshots
+Test Plan<br>
+Test Scenarios<br>
+Test Cases<br>
+Bug Reports<br>
+API Test Collection<br>
+SQL Validation Queries<br>
+Test Execution Report<br>
+Screenshots<br>
 
 ## 8. Entry and Exit Criteria
 Entry Criteria
 
 Testing will begin when:
 
-application is running successfully
-database connection is established
-APIs are accessible
+Application is running successfully.<br>
+Database connection is established.<br>
+APIs are accessible.<br>
 Exit Criteria
 
 Testing will conclude when:
 
-major functionalities are tested
-critical defects are resolved
-regression testing is completed
+Major functionalities are tested.<br>
+Critical defects are resolved.<br>
+Regression testing is completed.<br>
 
 ## 9. Suspension and Resumption Criteria
 
 Testing may be suspended if:
 
-application server becomes unavailable
-critical blocking defects prevent further testing
+Application server becomes unavailable.<br>
+Critical blocking defects prevent further testing.<br>
 
 Testing will resume after issues are resolved.
 
 ## 10. Tools
 
-Excel/Google Sheets	-> Test documentation
-Postman	-> API testing
-SQL Server/MySQL -> Database validation
-Browser DevTools -> UI inspection
-GitHub -> Version control and project hosting
+Excel/Google Sheets	-> Test documentation<br>
+Postman	-> API testing<br>
+SQL Server/MySQL -> Database validation<br>
+Browser DevTools -> UI inspection<br>
+GitHub -> Version control and project hosting<br>
 
 
 
 ## 11. Approvals
-Name	Role
 Bhawana Aryal	Developer / QA Tester
